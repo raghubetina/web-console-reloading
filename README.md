@@ -2,6 +2,8 @@
 
 It appears that `web-console` is breaking code live reloading in some instances.
 
+![Live reloading failure](https://raw.githubusercontent.com/raghubetina/web-console-reloading/master/public/reloading.gif)
+
 ## To reproduce
 
  1. Clone.
